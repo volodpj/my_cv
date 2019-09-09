@@ -1,11 +1,14 @@
 import React from 'react';
 import './App.css';
 import './reset.css';
+import Header from './componets/header/header';
+import Skills from './componets/skills/skills';
 
 function App() {
   return (
     <div className="wraper">
-      <h1>helo my name volodymyr</h1>
+      <Header/>
+      <Skills/>
     </div>
   );
 }
