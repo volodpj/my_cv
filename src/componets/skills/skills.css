@@ -1,5 +1,21 @@
 .skillsBox{
     width: 960px;
     height: 450px;
-    border: 1px solid #368b33
+    margin-top: 60px;
+}
+
+.skillsContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profSkills{
+    width: 38%;
+    height: 330px;
+
+}
+.additSkills{
+    width: 58%;
+    height: 330px;
+
 }

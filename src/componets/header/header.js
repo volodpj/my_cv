@@ -3,7 +3,7 @@ import './header.css';
 
 function Header(){
     return (
-        <header className="header">
+        <header className="header blockStyle">
             <div className="CVPhoto">
 
             </div>

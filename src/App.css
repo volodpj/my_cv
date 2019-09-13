@@ -8,7 +8,17 @@
   padding-top: 80px;
   padding-bottom: 80px;
 }
-.bc{
-  background-color: blue;
+.blockStyle{
+  background-color: #ffffff;
+  box-shadow: 1px 1px 9px #535353;
+  border-radius: 3px;
 }
 
+.title_level_2{
+  font-family: 'Muli', sans-serif;
+  font-size: 47px;
+  color: #2528c0;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 60px;
+}
