@@ -1,15 +1,19 @@
 .educationBox{
     width: 960px;
+    margin-top: 60px;
     
 }
 .educationContainer{
     display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 15px;
+    width: 960px;
+    grid-template-columns: 273px 273px 273px;
+    justify-content: space-between;
+    
+    
 }
 
 .educationBlock{
     width: 273px;
     height: 273px;
+    margin: 0 auto;
 }

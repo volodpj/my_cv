@@ -1,4 +1,25 @@
 header{
     width: 960px;
     height: 540px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.CVPhoto{
+    width: 320px;
+    height: 480px;
+    border: 1px solid red;
+}
+
+.CVDescription{
+    width: 520px;
+    height: 480px;
+    border: 1px solid red;
+}
+
+h1{
+    font-family: 'Muli', sans-serif;
+    font-size: 32px;
+    font-weight: 800; 
 }

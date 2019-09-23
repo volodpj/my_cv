@@ -8,7 +8,7 @@ function Header(){
 
             </div>
             <div className="CVDescription">
-
+                <h1>HI I'M <span className="text_color">VOLODYMYR</span></h1>
             </div>
         </header>
         
